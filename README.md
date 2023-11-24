@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak Oke!
-- 👀 I’m interested in AI, IoT and Computer Vision.
-- 🌱 I’m currently pursuing my Bachelors in Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on Face Detection using OpenCV related projects.
+- 👀 I’m interested in AI, IoT , Computer Vision , Data Science and Data Analysis.
+- 🌱 I recenlty Graduated from Oshawa , Canada in MEng Electrical and Computer Engineering.
+- 💞️ I’m looking to collaborate on Data Analysis related projects.
 - 📫 You can get in touch with me through LinkedIn: https://www.linkedin.com/in/sarthakoke/ and Email: sarthakoke@gmail.com
 
 <!---
