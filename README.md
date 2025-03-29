@@ -1,6 +1,7 @@
 👋 Hi, I’m Sarthak Oke!<br/>
 👀 I’m interested in AI, IoT , Computer Vision , Data Science and Data Analytics.<br/>
 🌱 Master's Graduate in Electrical and Computer Engineering.<br/>
+
 # 💼Professional Focus:
 Transforming raw data into actionable insights through:\
 ✅ Advanced analytics & dashboard development\
@@ -50,7 +51,8 @@ Transforming raw data into actionable insights through:\
 `Data Analysis` `Business Intelligence` `Predictive Modeling` `Data Visualization`\
 `SQL` `Python` `Machine Learning` `ETL Processes` `Statistical Analysis`
 
-💼 **Professional Focus**\
+# 💼 Professional Focus
+
 Transforming raw data into actionable insights through:\
 ✅ Advanced analytics & dashboard development\
 ✅ Cross-functional data storytelling\
@@ -102,10 +104,14 @@ I'm actively seeking projects involving:\
 • KPI dashboard creation
 
 📬 **Connect With Me**\
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5)](https://linkedin.com/in/sarthakoke)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?logo=gmail)](mailto:sarthakoke@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-%2300C7B7)](https://your-portfolio-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakoke)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakoke@gmail.com)
+[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-D14836?logo=portfolio&logoColor=white)](https://sarthakoke.github.io/)
 
 📊 **GitHub Analytics**  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakoke&theme=default&hide_border=true&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarthakoke&theme=default&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sarthakoke&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sarthakoke&icon=10&color=13)](https://visitcount.itsvg.in)
