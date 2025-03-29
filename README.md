@@ -1,4 +1,4 @@
-👋 Hi, I’m Sarthak Oke!
+👋 Hi, I’m Sarthak Oke!<br/>
 👀 I’m interested in AI, IoT , Computer Vision , Data Science and Data Analytics.<br/>
 🌱 Master's Graduate in Electrical and Computer Engineering.<br/>
 💞️ I’m looking to collaborate on Data Analysis related projects.<br/>
