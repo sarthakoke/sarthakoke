@@ -104,9 +104,6 @@ I'm actively seeking projects involving:\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakoke)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakoke@gmail.com)
 [![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-%230077B5?logo=portfolio&logoColor=white&color=00A67E)](https://sarthakoke.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/sarthakoke)
-[![Email](https://img.shields.io/badge/Email_Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=BB001B)](mailto:sarthakoke@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white&color=00A67E)](https://sarthakoke.github.io/)
 
 # 📊 GitHub Analytics
 ![](https://github-readme-stats.vercel.app/api?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false)
