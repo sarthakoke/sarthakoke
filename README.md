@@ -74,6 +74,7 @@ Transforming raw data into actionable insights through:\
 ![Tableau](https://img.shields.io/badge/Tableau_Desktop-%23E9762B.svg?style=flat&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau_Desktop-%23E9762B?style=for-the-badge&logo=tableau&logoColor=white&labelColor=transparent)
 
 ## Databases & Cloud ☁️🔗
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -106,14 +107,14 @@ I'm actively seeking projects involving:\
 📬 **Connect With Me**\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakoke)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakoke@gmail.com)
-[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio%230077B5.svg?logo=portfolio&logoColor=white)](https://sarthakoke.github.io/)
+[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio%230077B5?logo=portfolio&logoColor=white)](https://sarthakoke.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/sarthakoke)
 [![Email](https://img.shields.io/badge/Email_Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=BB001B)](mailto:sarthakoke@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white&color=00A67E)](https://sarthakoke.github.io/)
 
 📊 **GitHub Analytics**  
 ![](https://github-readme-stats.vercel.app/api?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sarthakoke&theme=default&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sarthakoke&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
