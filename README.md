@@ -41,10 +41,9 @@ Transforming raw data into actionable insights through:\
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 📈 Analysis Highlights
-• Built sales forecasting model with 92% accuracy using Python time-series analysis\
-• Developed inventory optimization dashboard reducing stockouts by 35% in Power BI\
-• Automated ETL pipelines processing 1M+ records daily on AWS infrastructure\
-• Created customer segmentation model improving marketing ROI by 22%
+• Boosted healthcare reporting accuracy by 25% via AWS ETL automation.\
+• Cut data cleaning time by 40% with SQL automation.\
+• Predicted bus delays (Python ML) reducing wait times by 15%.
 
 # 📫 Collaboration Opportunities
 I'm actively seeking projects involving:\
