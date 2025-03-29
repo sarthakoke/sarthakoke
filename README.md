@@ -1,6 +1,13 @@
 👋 Hi, I’m Sarthak Oke!<br/>
 👀 I’m interested in AI, IoT , Computer Vision , Data Science and Data Analytics.<br/>
 🌱 Master's Graduate in Electrical and Computer Engineering.<br/>
+# 💼Professional Focus:
+Transforming raw data into actionable insights through:\
+✅ Advanced analytics & dashboard development\
+✅ Cross-functional data storytelling\
+✅ End-to-end data pipeline optimization\
+✅ Cloud-based analytics solutions
+
 💞️ I’m looking to collaborate on Data Analysis related projects.<br/>
 📫 You can get in touch with me through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakoke) and [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakoke@gmail.com)
 
