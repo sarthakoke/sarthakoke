@@ -59,7 +59,7 @@ I'm actively seeking projects involving:\
 [![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-%230077B5?logo=portfolio&logoColor=white&color=00A67E)](https://sarthakoke.github.io/)
 
 # 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarthakoke&theme=default&hide_border=flase)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakoke&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
