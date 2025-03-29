@@ -1,4 +1,4 @@
-👋 Hi, I'm Sarthak Oke | Data Analyst | ECE Master's Graduate
+# 👋 Hi, I'm Sarthak Oke | Data Analyst | ECE Master's Graduate
 
 # 🔧 Core Competencies
 `Data Analysis` `Business Intelligence` `Predictive Modeling` `Data Visualization`\
