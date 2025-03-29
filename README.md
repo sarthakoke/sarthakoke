@@ -40,6 +40,61 @@ Transforming raw data into actionable insights through:\
 [![](https://visitcount.itsvg.in/api?id=sarthakoke&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+👋 Hi, I'm Sarthak Oke | Data Analyst | ECE Master's Graduate
+
 🔧 **Core Competencies**\
 `Data Analysis` `Business Intelligence` `Predictive Modeling` `Data Visualization`\
 `SQL` `Python` `Machine Learning` `ETL Processes` `Statistical Analysis`
+
+💼 **Professional Focus**\
+Transforming raw data into actionable insights through:\
+✅ Advanced analytics & dashboard development\
+✅ Cross-functional data storytelling\
+✅ End-to-end data pipeline optimization\
+✅ Cloud-based analytics solutions
+
+📊 **Data Stack Proficiencies**
+
+**Analysis & Visualization**\
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E9762B?logo=tableau&logoColor=white)
+
+**Databases & Cloud**\
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+
+**ML & Analytics Tools**\
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+📈 **Analysis Highlights**\
+• Built sales forecasting model with 92% accuracy using Python time-series analysis\
+• Developed inventory optimization dashboard reducing stockouts by 35% in Power BI\
+• Automated ETL pipelines processing 1M+ records daily on AWS infrastructure\
+• Created customer segmentation model improving marketing ROI by 22%
+
+📫 **Collaboration Opportunities**\
+I'm actively seeking projects involving:\
+• Business intelligence system development\
+• Predictive analytics implementations\
+• Large dataset processing/cleaning\
+• KPI dashboard creation
+
+📬 **Connect With Me**\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5)](https://linkedin.com/in/sarthakoke)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?logo=gmail)](mailto:sarthakoke@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-%2300C7B7)](https://your-portfolio-site.com)
+
+📊 **GitHub Analytics**  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakoke&theme=default&hide_border=true&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarthakoke&theme=default&hide_border=true)
