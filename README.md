@@ -15,3 +15,6 @@
 [![](https://visitcount.itsvg.in/api?id=sarthakoke&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔧 **Core Competencies**\
+`Data Analysis` `Business Intelligence` `Predictive Modeling` `Data Visualization`\
+`SQL` `Python` `Machine Learning` `ETL Processes` `Statistical Analysis`
